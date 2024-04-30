@@ -2,6 +2,7 @@
 title: ScamShield Bot Soft Launch
 permalink: /about-us/new-developments/
 description: New Developments
+variant: markdown
 ---
 ### The ScamShield Bot is available on WhatsApp
 
@@ -37,4 +38,4 @@ While you can directly block and report scam messages or contacts on WhatsApp or
 
 Please join us in our fight against scams! 
 
-We’d love to hear your comments, questions, and suggestions at: [ScamShield Bot Feedback](http://go.gov.sg/scamshield-bot-feedback)
+We’d love to hear your comments, questions, and suggestions at: [ScamShield Bot Feedback](https://go.gov.sg/scamshield-feedback-form)
