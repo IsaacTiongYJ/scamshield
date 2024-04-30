@@ -3,6 +3,7 @@ title: How it works
 permalink: /ios-app/
 description: ""
 third_nav_title: IOS App
+variant: markdown
 ---
 ### Set up Scamshield iOS to block scam calls and SMSes
 
@@ -37,7 +38,7 @@ third_nav_title: IOS App
 
 
 #### Feedback
-For any queries, questions or feedback, please contact us here: [ScamShield Feedback](https://go.gov.sg/scamshield-feedback)
+For any queries, questions or feedback, please contact us here: [ScamShield Feedback](https://go.gov.sg/scamshield-feedback-form)
 
 
 ---
