@@ -3,6 +3,7 @@ title: How it works
 permalink: /android-app/
 description: ""
 third_nav_title: Android App
+variant: markdown
 ---
 ### Set up ScamShield Android to block scam calls and detect scam SMSes
 ---
@@ -34,7 +35,7 @@ third_nav_title: Android App
 
 
 #### Feedback
-For any queries, questions or feedback, please contact us here: [ScamShield Feedback](https://go.gov.sg/scamshield-feedback)
+For any queries, questions or feedback, please contact us here: [ScamShield Feedback](https://go.gov.sg/scamshield-feedback-form)
 
 
 ---
